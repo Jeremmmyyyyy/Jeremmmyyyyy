@@ -2,7 +2,7 @@
 
 <h3 align="center">🌱 I'm a student in computer science at EPFL (Lausanne). I'm interested in machine learning and cybersecurity</h3><br />
 
-- 👨‍💻 All of my projects are available at : [https://github.com/Jeremmmyyyyy](https://github.com/Jeremmmyyyyy)
+- 👨‍💻 All of my projects are available at : [https://github.com/Jeremmmyyyyy](https://barghornjeremy.com)
 
 <br />
 
