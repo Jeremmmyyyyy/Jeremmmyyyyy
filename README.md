@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barghorn Jérémy</h1><br />
 
-<h3 align="center">🌱 I'm a student in computer science at EPFL (Lausanne). I'm interested in machine learning and cybersecurity</h3><br />
+<h3 align="center">🌱 I'm a student in computer science at EPFL (Lausanne). I'm interested in machine learning</h3><br />
 
 - 👨‍💻 All of my projects are available at : [My website](https://barghornjeremy.com)
 
